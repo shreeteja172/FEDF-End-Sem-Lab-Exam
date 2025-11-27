@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete React assignment",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Study for exams",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Buy groceries",
+      "completed": false
+    }
+  ]
+}
